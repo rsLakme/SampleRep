@@ -1,2 +1,2 @@
 # SampleRep
-Sample Repository to learn Github
+Sample Repository to self learn Github.
